@@ -54,12 +54,3 @@
 </p>
 
 ---
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonufirasath&layout=compact&theme=react" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sonufirasath&show_icons=true&theme=react" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonufirasath&theme=react" alt="GitHub Streak" />
-</p>
