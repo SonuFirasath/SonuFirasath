@@ -13,7 +13,7 @@
 
 ---
 
-- 🌱 I’m expert in build application using **Next.js**
+- 🌱 I’m expert in building application using **Next.js**
 - 💬 Ask me about **React**
 - 📫 Reach me at **sonufirasath@gmail.com**
 - ⚡ Fun fact: **I think I am Creative (●'◡'●)**
